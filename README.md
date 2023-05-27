@@ -27,7 +27,7 @@ For animation I have used Framer motion library.
 
 ## Live project link
 
-(https://celebrated-cheesecake-86832e.netlify.app/)
+
 https://scenario-vehicle-debz.netlify.app/
 
 ## Preview
